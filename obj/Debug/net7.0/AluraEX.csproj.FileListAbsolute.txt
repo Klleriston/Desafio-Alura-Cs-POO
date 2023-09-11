@@ -1,0 +1,4 @@
+C:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\obj\Debug\net7.0\AluraEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\obj\Debug\net7.0\AluraEX.AssemblyInfoInputs.cache
+C:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\obj\Debug\net7.0\AluraEX.AssemblyInfo.cs
+C:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\obj\Debug\net7.0\AluraEX.csproj.CoreCompileInputs.cache

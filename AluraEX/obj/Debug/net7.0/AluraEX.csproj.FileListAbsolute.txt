@@ -1,0 +1,14 @@
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\bin\Debug\net7.0\AluraEX.exe
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\bin\Debug\net7.0\AluraEX.deps.json
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\bin\Debug\net7.0\AluraEX.runtimeconfig.json
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\bin\Debug\net7.0\AluraEX.dll
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\bin\Debug\net7.0\AluraEX.pdb
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.AssemblyInfoInputs.cache
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.AssemblyInfo.cs
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.csproj.CoreCompileInputs.cache
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.dll
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\refint\AluraEX.dll
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.pdb
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\AluraEX.genruntimeconfig.cache
+c:\Users\kllea\OneDrive\Área de Trabalho\AluraEX\AluraEX\obj\Debug\net7.0\ref\AluraEX.dll
